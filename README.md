@@ -1,11 +1,12 @@
-# hello-express
+# Getting Gut With Node
 
-A server that serves a webpage, its resources, and some data
+_Yes, I mispeleld gud_
 
+This project is just for me to learn the basics
+of node and hopefully create some kind of a useful
+webpage.
 
-## Wait does this work
-
-Please say it works
+Website is hosted on glitch.
 
 
 ## Your Project
@@ -33,3 +34,4 @@ Click `Show` in the header to see your app live. Updates to your code will insta
 Find out more [about Glitch](https://glitch.com/about).
 
 ( ᵔ ᴥ ᵔ )
+
